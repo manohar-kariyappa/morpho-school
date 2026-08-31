@@ -1,0 +1,19 @@
+{
+ "db_name": "_6ae53944c5fcdb8e",
+ "db_password": "zjhVJARJxZvB2Nzt",
+ "db_type": "mariadb",
+ "domains": [
+  {
+   "domain": "education.quantumberg.com",
+   "ssl_certificate": "/etc/letsencrypt/live/education.quantumberg.com/fullchain.pem",
+   "ssl_certificate_key": "/etc/letsencrypt/live/education.quantumberg.com/privkey.pem"
+  }
+ ],
+ "encryption_key": "cuTu21WJb_InEVCrkzgaznngmUlE8ySclY6x5TobtIE=",
+ "host_name": "education.quantumberg.com",
+ "ignore_csrf": 1,
+ "maintenance_mode": 0,
+ "user_type_doctype_limit": {
+  "Employee Self Service": 100
+ }
+}
