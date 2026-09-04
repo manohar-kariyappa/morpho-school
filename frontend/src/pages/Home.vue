@@ -10,9 +10,9 @@
         </div>
 
         <div class="top-links">
-          <a href="/app/login">Parents Portal</a>
+          <a href="/app/desk">Parents Portal</a>
           <span>|</span>
-          <a href="/app/login">Students Portal</a>
+          <a href="/app/desk">Students Portal</a>
           <span>|</span>
           <a href="#" aria-label="Facebook">f</a>
           <a href="#" aria-label="Instagram">◎</a>
@@ -286,10 +286,10 @@
 
         <div>
           <h4>Portals</h4>
-          <a href="/app/login">Parents Portal</a>
-          <a href="/app/login">Students Portal</a>
-          <a href="/app/login">Teacher Portal</a>
-          <a href="/app/login">Staff Login</a>
+          <a href="/app/desk">Parents Portal</a>
+          <a href="/app/desk">Students Portal</a>
+          <a href="/app/desk">Teacher Portal</a>
+          <a href="/app/desk">School  Login</a>
         </div>
 
         <div>
